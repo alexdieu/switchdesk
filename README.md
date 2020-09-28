@@ -12,7 +12,7 @@ App is crashing !
 
 * THE APP CAN BE ACCEDED BY THE SERVER SECTION , FILL IP = "YOUR LOCAL IP" and PORT = YOUR PORT(by default 8080)
 
-TO FIND YOUR LOCAL IP , launch cmd and type "ipconfig" take the ip that is beggining by 192.168 ...
+TO FIND YOUR LOCAL IP , launch cmd and type "ipconfig" take the ip that is beggining by 192.168 ...  (IPV4 to be precise !)
 
 AFTER THAT THE PORT (the port doesn't matter , just let it to 8080 if you don't know what is it)
 
