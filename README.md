@@ -5,7 +5,7 @@ spacedesk for windows needed :
 
 - 32 bit https://spacedesk.net/downloadidd32
 
--64 bit https://spacedesk.net/downloadidd64
+- 64 bit https://spacedesk.net/downloadidd64
 
 App v2 is currently working !(not for atmosphere 10.4 and later :( *) 
 App is crashing !
