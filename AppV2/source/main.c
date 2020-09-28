@@ -39,7 +39,7 @@ int main(int argc, char *argv[])
                 rc = webConfigShow(&config, &reply);
                 printf("webConfigShow(): 0x%x\n", rc);
                 if(rc == 0x5d59){
-                    printf(CONSOLE_RED "!!! There was an issue showing the browser window. Make sure you're running the game through an overridden title and not the album. Hold KEY_PLUS to exit.\n" CONSOLE_WHITE);
+                    printf(CONSOLE_RED "!!!You seems to run it in applet mod , try Holding KEY_PLUS to exit.\n" CONSOLE_WHITE);
                 }
             }
 
