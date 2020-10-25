@@ -7,8 +7,8 @@ spacedesk for windows needed :
 
 - 64 bit https://spacedesk.net/downloadidd64
 
-App v2 is currently working !(not for atmosphere 10.4 and later :( *) 
-App is crashing !
+App v2 is currently working !
+App is crashing on applet mode !
 
 * THE APP CAN BE ACCEDED BY THE SERVER SECTION , FILL IP = "YOUR LOCAL IP" and PORT = YOUR PORT(by default 8080)
 
